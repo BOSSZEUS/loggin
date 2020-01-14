@@ -1,0 +1,13 @@
+.button1{
+  background-color: red;
+  font-weight: bold;
+  padding: 10px 24px;
+  border-radius: 50%;
+}
+.loggin1{
+  column-fill: auto;
+  
+}
+body{
+  background-color: darkslategray;
+}
